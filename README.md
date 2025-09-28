@@ -16,6 +16,6 @@ This project is a website built with HTML and CSS. It has a dark theme with whit
 - A contact form to get in touch for help
 
 ## How To Use
-Open the `main.html` file in any web browser to see the website. You don’t need to install anything or use a server.
+Open the `index.html` file in any web browser to see the website. You don’t need to install anything or use a server.
 
 © 2025 Wanderlust Elite. Helping you plan amazing journeys.
